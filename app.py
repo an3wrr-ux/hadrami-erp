@@ -6,6 +6,10 @@ import io
 import base64
 import random
 import json
+import hadrami_extensions as ext
+
+# حقن وتفعيل الهوية المرئية والوضع الداكن/المضيء وتنسيق التقارير في كامل البرنامج
+ext.inject_premium_theme_and_graphics_engine()
 
 # ====================================================================
 # 1. تهيئة النواة المحاسبية الفوق-مؤسسية الكبرى وقواعد البيانات اللامحدودة
